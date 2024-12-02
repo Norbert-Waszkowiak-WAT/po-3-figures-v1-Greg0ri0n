@@ -1,0 +1,2 @@
+#ifnotdef UNTITLED/POINT
+#define UNTITLED/POINT
